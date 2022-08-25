@@ -1,0 +1,9 @@
+#hardhat
+node_modules
+artifacts
+cache
+deployments
+
+#env variables and sK
+.env
+.encryptedKey.json
